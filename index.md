@@ -11,8 +11,8 @@ Overall, experimental results on three publicly available datasets demonstrate t
 ### Model
 ![model](imgs/framework.png)
 ### Code
-For rebuilding the results, please feel free to download [SVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) and [ELM](http://www.ntu.edu.sg/home/egbhuang/) and use the hyper-parameter settings described in our paper. 
-For deep models, configurations for PPF, BsNet, ssCNN and SPPF are available on [github](). 
+For reproducing the results, please feel free to download [SVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) and [ELM](http://www.ntu.edu.sg/home/egbhuang/) and use the hyper-parameter settings described in our paper. 
+For deep models, configurations for PPF, BsNet, ssCNN and SPPF are available on [github](https://github.com/hijeffery/HSI-SPPF/tree/master/code). 
 
 If you find this work helpful, please kindly cite our paper as:
 ```
